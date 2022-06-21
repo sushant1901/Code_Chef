@@ -20,6 +20,7 @@ class Codechef
               System.out.println(val*x);  
             }else{
                 System.out.println((val*x)+x);
+		    
             }
 		    
 		    
