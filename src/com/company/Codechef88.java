@@ -16,6 +16,7 @@ class Codechef
 		    int diff=(b-a)%3;
 		    if(diff==0 || diff==1)System.out.println("yes");
 		    else System.out.println("no");
+			
 		}
 	}
 }
