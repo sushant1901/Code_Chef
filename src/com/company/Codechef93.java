@@ -18,7 +18,8 @@ class Codechef
 		    int r=p%100;
 		    if((r+ans)<=10){
 		        System.out.println(r+ans);
-		    }else{
+		    }
+		else{
 		        System.out.println("-1");
 		    }
 		}
