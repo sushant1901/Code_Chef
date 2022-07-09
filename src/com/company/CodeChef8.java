@@ -20,7 +20,7 @@ class Codechef8
             System.out.println(curr);
 
         }
-        // your code goes here
+        
     }
 }
 
