@@ -19,6 +19,7 @@ class Codechef
 		    else{
 		        if(y!=1 && x!=1){
 		            
+				
 		        }
 		    }
 		}
